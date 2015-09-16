@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="274.95175"
-     inkscape:cy="563.48534"
+     inkscape:zoom="1.979899"
+     inkscape:cx="-195.74154"
+     inkscape:cy="636.32135"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -223,9 +223,20 @@
        id="image4682"
        x="319.48309"
        y="74.314011" />
+    <rect
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.90267754;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4888"
+       width="265.09738"
+       height="400.09732"
+       x="132.33931"
+       y="379.62973" />
     <g
        id="g4747"
-       transform="translate(66.164992,150.00765)">
+       transform="translate(66.164992,150.00765)"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286">
       <rect
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          id="rect4689"
@@ -247,7 +258,9 @@
     </g>
     <g
        id="g4742"
-       transform="translate(66.164992,150.00765)">
+       transform="translate(66.164992,150.00765)"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286">
       <rect
          inkscape:export-ydpi="316.58286"
          inkscape:export-xdpi="316.58286"
@@ -491,5 +504,1070 @@
          id="tspan4800"
          x="263.68362"
          y="435.36002">Configuration</tspan></text>
+    <rect
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.90267754;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5162"
+       width="239.70872"
+       height="339.54767"
+       x="-614.67609"
+       y="236.12859" />
+    <rect
+       y="236.12859"
+       x="-875.67609"
+       height="339.54767"
+       width="239.70872"
+       id="rect4890"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.90267754;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286" />
+    <path
+       style="fill:#eeffaa;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -556.57367,434.80938 11.03453,-23.01486 96.3156,0.31527 -90.48307,22.85724 z"
+       id="path5138"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286" />
+    <g
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       transform="translate(-952.75905,-45.961943)"
+       id="g4892">
+      <rect
+         y="556.00183"
+         x="116.42857"
+         height="44.931839"
+         width="161.64159"
+         id="rect4894"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4896"
+         y="584.36737"
+         x="196.92343"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5112505px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="584.36737"
+           x="196.92343"
+           id="tspan4898"
+           sodipodi:role="line">Hardware</tspan></text>
+    </g>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4908"
+       width="161.64159"
+       height="44.931839"
+       x="-836.33044"
+       y="459.51837"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5112505px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-755.24042"
+       y="487.40063"
+       id="text4910"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286"><tspan
+         sodipodi:role="line"
+         id="tspan4912"
+         x="-755.24042"
+         y="487.40063">OS Kernel</tspan></text>
+    <rect
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       y="459.51837"
+       x="-836.33044"
+       height="44.931839"
+       width="161.64159"
+       id="rect4914"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       sodipodi:linespacing="125%"
+       id="text4916"
+       y="487.40063"
+       x="-755.24042"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5112505px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="487.40063"
+         x="-755.24042"
+         id="tspan4918"
+         sodipodi:role="line">OS Kernel</tspan></text>
+    <rect
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       y="409.51587"
+       x="-836.33044"
+       height="44.931839"
+       width="161.64159"
+       id="rect4920"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       sodipodi:linespacing="125%"
+       id="text4922"
+       y="437.39807"
+       x="-755.24042"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5112505px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="437.39807"
+         x="-755.24042"
+         id="tspan4924"
+         sodipodi:role="line">OS Kernel</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4926"
+       width="161.64159"
+       height="44.931839"
+       x="-836.33044"
+       y="409.51587"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5112505px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-755.24042"
+       y="437.39807"
+       id="text4928"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286"><tspan
+         sodipodi:role="line"
+         id="tspan4930"
+         x="-755.24042"
+         y="437.39807">System Libraries</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4932"
+       width="161.64159"
+       height="44.931839"
+       x="-836.33044"
+       y="360.52344"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5112505px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-755.24042"
+       y="388.4057"
+       id="text4934"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286"><tspan
+         sodipodi:role="line"
+         id="tspan4936"
+         x="-755.24042"
+         y="388.4057">OS Kernel</tspan></text>
+    <rect
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       y="360.52344"
+       x="-836.33044"
+       height="44.931839"
+       width="161.64159"
+       id="rect4938"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       sodipodi:linespacing="125%"
+       id="text4940"
+       y="388.4057"
+       x="-755.24042"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5112505px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="388.4057"
+         x="-755.24042"
+         id="tspan4942"
+         sodipodi:role="line">Language Runtime</tspan></text>
+    <rect
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       y="309.00568"
+       x="-836.33044"
+       height="44.931839"
+       width="161.64159"
+       id="rect4944"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       sodipodi:linespacing="125%"
+       id="text4946"
+       y="336.88788"
+       x="-755.24042"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5112505px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="336.88788"
+         x="-755.24042"
+         id="tspan4948"
+         sodipodi:role="line">OS Kernel</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4950"
+       width="161.64159"
+       height="44.931839"
+       x="-836.33044"
+       y="309.00568"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5112505px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-755.24042"
+       y="336.88788"
+       id="text4952"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286"><tspan
+         sodipodi:role="line"
+         id="tspan4954"
+         x="-755.24042"
+         y="336.88788">Application Code</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4956"
+       width="161.64159"
+       height="44.931839"
+       x="-836.33044"
+       y="259.50821"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5112505px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-755.24042"
+       y="287.39041"
+       id="text4958"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286"><tspan
+         sodipodi:role="line"
+         id="tspan4960"
+         x="-755.24042"
+         y="287.39041">OS Kernel</tspan></text>
+    <rect
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       y="259.50821"
+       x="-836.33044"
+       height="44.931839"
+       width="161.64159"
+       id="rect4962"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       sodipodi:linespacing="125%"
+       id="text4964"
+       y="287.39041"
+       x="-755.24042"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5112505px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="287.39041"
+         x="-755.24042"
+         id="tspan4966"
+         sodipodi:role="line">Configuration</tspan></text>
+    <g
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       transform="matrix(0.34924368,0,0,0.34924368,-586.42168,338.51162)"
+       id="g4968">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect4970"
+         width="408.57144"
+         height="113.57143"
+         x="65"
+         y="515.21936" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="171.74666"
+         y="586.91718"
+         id="text4972"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4974"
+           x="171.74666"
+           y="586.91718">Hardware</tspan></text>
+    </g>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4978"
+       width="142.69099"
+       height="39.664104"
+       x="-563.72083"
+       y="474.28052"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.42314625px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-526.6452"
+       y="498.89386"
+       id="text4980"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286"><tspan
+         sodipodi:role="line"
+         id="tspan4982"
+         x="-526.6452"
+         y="498.89386">Hypervisor</tspan></text>
+    <rect
+       y="430.1124"
+       x="-563.72083"
+       height="39.664104"
+       width="142.69099"
+       id="rect4986"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eeffaa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286" />
+    <rect
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5006"
+       width="17.843273"
+       height="31.151756"
+       x="-557.06854"
+       y="434.84149" />
+    <rect
+       y="434.84149"
+       x="-534.6842"
+       height="31.151756"
+       width="17.843273"
+       id="rect5008"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286" />
+    <rect
+       y="434.84149"
+       x="-512.29987"
+       height="31.151756"
+       width="17.843273"
+       id="rect5010"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286" />
+    <rect
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5012"
+       width="17.843273"
+       height="31.151756"
+       x="-489.91565"
+       y="434.84149" />
+    <rect
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5014"
+       width="17.843273"
+       height="31.151756"
+       x="-467.53134"
+       y="434.84149" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4988"
+       y="454.57581"
+       x="-513.91565"
+       style="font-style:normal;font-weight:normal;font-size:12.42314625px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286"><tspan
+         y="454.57581"
+         x="-513.91565"
+         id="tspan4990"
+         sodipodi:role="line">Guests</tspan></text>
+    <rect
+       y="434.84149"
+       x="-445.14703"
+       height="31.151756"
+       width="17.843273"
+       id="rect5016"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286" />
+    <rect
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       y="383.11206"
+       x="-548.76294"
+       height="29.138481"
+       width="104.82523"
+       id="rect5018"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       sodipodi:linespacing="125%"
+       id="text5020"
+       y="401.19382"
+       x="-496.17569"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.41060638px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="401.19382"
+         x="-496.17569"
+         id="tspan5022"
+         sodipodi:role="line">OS Kernel</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5024"
+       width="104.82523"
+       height="29.138481"
+       x="-548.76294"
+       y="383.11206"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.41060638px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-496.17569"
+       y="401.19382"
+       id="text5026"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286"><tspan
+         sodipodi:role="line"
+         id="tspan5028"
+         x="-496.17569"
+         y="401.19382">OS Kernel</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5030"
+       width="104.82523"
+       height="29.138481"
+       x="-548.76294"
+       y="350.68524"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.41060638px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-496.17566"
+       y="368.76694"
+       id="text5032"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286"><tspan
+         sodipodi:role="line"
+         id="tspan5034"
+         x="-496.17566"
+         y="368.76694">OS Kernel</tspan></text>
+    <rect
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       y="350.68524"
+       x="-548.76294"
+       height="29.138481"
+       width="104.82523"
+       id="rect5036"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       sodipodi:linespacing="125%"
+       id="text5038"
+       y="368.76694"
+       x="-496.17566"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.41060638px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="368.76694"
+         x="-496.17566"
+         id="tspan5040"
+         sodipodi:role="line">System Libraries</tspan></text>
+    <rect
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       y="318.91342"
+       x="-548.76294"
+       height="29.138481"
+       width="104.82523"
+       id="rect5042"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       sodipodi:linespacing="125%"
+       id="text5044"
+       y="336.99521"
+       x="-496.17566"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.41060638px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="336.99521"
+         x="-496.17566"
+         id="tspan5046"
+         sodipodi:role="line">OS Kernel</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5048"
+       width="104.82523"
+       height="29.138481"
+       x="-548.76294"
+       y="318.91342"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.41060638px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-496.17566"
+       y="336.99521"
+       id="text5050"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286"><tspan
+         sodipodi:role="line"
+         id="tspan5052"
+         x="-496.17566"
+         y="336.99521">Language Runtime</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5054"
+       width="104.82523"
+       height="29.138481"
+       x="-548.76294"
+       y="285.50397"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.41060638px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-496.17566"
+       y="303.58569"
+       id="text5056"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286"><tspan
+         sodipodi:role="line"
+         id="tspan5058"
+         x="-496.17566"
+         y="303.58569">OS Kernel</tspan></text>
+    <rect
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       y="285.50397"
+       x="-548.76294"
+       height="29.138481"
+       width="104.82523"
+       id="rect5060"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       sodipodi:linespacing="125%"
+       id="text5062"
+       y="303.58569"
+       x="-496.17566"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.41060638px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="303.58569"
+         x="-496.17566"
+         id="tspan5064"
+         sodipodi:role="line">Application Code</tspan></text>
+    <rect
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       y="253.40466"
+       x="-548.76294"
+       height="29.138481"
+       width="104.82523"
+       id="rect5066"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       sodipodi:linespacing="125%"
+       id="text5068"
+       y="271.48639"
+       x="-496.17566"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.41060638px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="271.48639"
+         x="-496.17566"
+         id="tspan5070"
+         sodipodi:role="line">OS Kernel</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5072"
+       width="104.82523"
+       height="29.138481"
+       x="-548.76294"
+       y="253.40466"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.41060638px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-496.17566"
+       y="271.48639"
+       id="text5074"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286"><tspan
+         sodipodi:role="line"
+         id="tspan5076"
+         x="-496.17566"
+         y="271.48639">Configuration</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5078"
+       width="104.82523"
+       height="29.138481"
+       x="-548.76294"
+       y="383.11206"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.41060638px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-496.17569"
+       y="401.19382"
+       id="text5080"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286"><tspan
+         sodipodi:role="line"
+         id="tspan5082"
+         x="-496.17569"
+         y="401.19382">OS Kernel</tspan></text>
+    <rect
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       y="383.11206"
+       x="-548.76294"
+       height="29.138481"
+       width="104.82523"
+       id="rect5084"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       sodipodi:linespacing="125%"
+       id="text5086"
+       y="401.19382"
+       x="-496.17569"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.41060638px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="401.19382"
+         x="-496.17569"
+         id="tspan5088"
+         sodipodi:role="line">OS Kernel</tspan></text>
+    <rect
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       y="350.68524"
+       x="-548.76294"
+       height="29.138481"
+       width="104.82523"
+       id="rect5090"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       sodipodi:linespacing="125%"
+       id="text5092"
+       y="368.76694"
+       x="-496.17566"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.41060638px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="368.76694"
+         x="-496.17566"
+         id="tspan5094"
+         sodipodi:role="line">OS Kernel</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5096"
+       width="104.82523"
+       height="29.138481"
+       x="-548.76294"
+       y="350.68524"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.41060638px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-496.17566"
+       y="368.76694"
+       id="text5098"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286"><tspan
+         sodipodi:role="line"
+         id="tspan5100"
+         x="-496.17566"
+         y="368.76694">System Libraries</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5102"
+       width="104.82523"
+       height="29.138481"
+       x="-548.76294"
+       y="318.91342"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.41060638px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-496.17566"
+       y="336.99521"
+       id="text5104"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286"><tspan
+         sodipodi:role="line"
+         id="tspan5106"
+         x="-496.17566"
+         y="336.99521">OS Kernel</tspan></text>
+    <rect
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       y="318.91342"
+       x="-548.76294"
+       height="29.138481"
+       width="104.82523"
+       id="rect5108"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       sodipodi:linespacing="125%"
+       id="text5110"
+       y="336.99521"
+       x="-496.17566"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.41060638px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="336.99521"
+         x="-496.17566"
+         id="tspan5112"
+         sodipodi:role="line">Language Runtime</tspan></text>
+    <rect
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       y="285.50397"
+       x="-548.76294"
+       height="29.138481"
+       width="104.82523"
+       id="rect5114"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       sodipodi:linespacing="125%"
+       id="text5116"
+       y="303.58569"
+       x="-496.17566"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.41060638px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="303.58569"
+         x="-496.17566"
+         id="tspan5118"
+         sodipodi:role="line">OS Kernel</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5120"
+       width="104.82523"
+       height="29.138481"
+       x="-548.76294"
+       y="285.50397"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.41060638px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-496.17566"
+       y="303.58569"
+       id="text5122"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286"><tspan
+         sodipodi:role="line"
+         id="tspan5124"
+         x="-496.17566"
+         y="303.58569">Application Code</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5126"
+       width="104.82523"
+       height="29.138481"
+       x="-548.76294"
+       y="253.40466"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.41060638px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-496.17566"
+       y="271.48639"
+       id="text5128"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286"><tspan
+         sodipodi:role="line"
+         id="tspan5130"
+         x="-496.17566"
+         y="271.48639">OS Kernel</tspan></text>
+    <rect
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       y="253.40466"
+       x="-548.76294"
+       height="29.138481"
+       width="104.82523"
+       id="rect5132"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       sodipodi:linespacing="125%"
+       id="text5134"
+       y="271.48639"
+       x="-496.17566"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.41060638px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="271.48639"
+         x="-496.17566"
+         id="tspan5136"
+         sodipodi:role="line">Configuration</tspan></text>
+    <rect
+       y="236.12859"
+       x="-346.10464"
+       height="339.54767"
+       width="329.6123"
+       id="rect5164"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.90267754;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286" />
+    <path
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path5166"
+       d="m -288.93514,342.25017 18.82629,-39.91794 164.32641,0.54681 -154.37539,39.64456 z"
+       style="fill:#eeffaa;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       id="g5168"
+       transform="matrix(0.59585326,0,0,0.60574286,-339.85957,175.2273)"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286">
+      <rect
+         y="515.21936"
+         x="65"
+         height="113.57143"
+         width="408.57144"
+         id="rect5170"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5172"
+         y="586.91718"
+         x="171.74666"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="586.91718"
+           x="171.74666"
+           id="tspan5174"
+           sodipodi:role="line">Hardware</tspan></text>
+    </g>
+    <rect
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       y="410.71054"
+       x="-301.12906"
+       height="68.795082"
+       width="243.44862"
+       id="rect5176"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       sodipodi:linespacing="125%"
+       id="text5178"
+       y="449.68454"
+       x="-239.83936"
+       style="font-style:normal;font-weight:normal;font-size:21.37060547px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(0.99180323,1.0082645)"><tspan
+         y="449.68454"
+         x="-239.83936"
+         id="tspan5180"
+         sodipodi:role="line">Hypervisor</tspan></text>
+    <rect
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eeffaa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5182"
+       width="243.44862"
+       height="68.795082"
+       x="-301.12906"
+       y="334.10352" />
+    <rect
+       y="342.30585"
+       x="-289.77942"
+       height="54.030907"
+       width="30.442846"
+       id="rect5184"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286" />
+    <rect
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5186"
+       width="30.442846"
+       height="54.030907"
+       x="-251.58897"
+       y="342.30585" />
+    <rect
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5188"
+       width="30.442846"
+       height="54.030907"
+       x="-213.39851"
+       y="342.30585" />
+    <rect
+       y="342.30585"
+       x="-175.20827"
+       height="54.030907"
+       width="30.442846"
+       id="rect5190"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286" />
+    <rect
+       y="342.30585"
+       x="-137.01784"
+       height="54.030907"
+       width="30.442846"
+       id="rect5192"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286" />
+    <text
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.37060547px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-217.94167"
+       y="373.44751"
+       id="text5194"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99180323,1.0082645)"><tspan
+         sodipodi:role="line"
+         id="tspan5196"
+         x="-217.94167"
+         y="373.44751">Guests</tspan></text>
+    <rect
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5198"
+       width="30.442846"
+       height="54.030907"
+       x="-98.8274"
+       y="342.30585" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5200"
+       width="178.84492"
+       height="50.538998"
+       x="-275.60904"
+       y="252.58415"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.18835831px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-187.42494"
+       y="281.61847"
+       id="text5202"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286"
+       transform="scale(0.99180323,1.0082645)"><tspan
+         sodipodi:role="line"
+         id="tspan5204"
+         x="-187.42494"
+         y="281.61847">OS Kernel</tspan></text>
+    <rect
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       y="252.58415"
+       x="-275.60904"
+       height="50.538998"
+       width="178.84492"
+       id="rect5206"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       sodipodi:linespacing="125%"
+       id="text5208"
+       y="281.61847"
+       x="-187.42494"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.18835831px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(0.99180323,1.0082645)"><tspan
+         y="281.61847"
+         x="-187.42494"
+         id="tspan5210"
+         sodipodi:role="line">OS Kernel</tspan></text>
+    <rect
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       y="252.58415"
+       x="-275.60904"
+       height="50.538998"
+       width="178.84492"
+       id="rect5260"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       inkscape:export-ydpi="316.58286"
+       inkscape:export-xdpi="316.58286"
+       sodipodi:linespacing="125%"
+       id="text5262"
+       y="281.61847"
+       x="-187.42494"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.18835831px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(0.99180323,1.0082645)"><tspan
+         y="281.61847"
+         x="-187.42494"
+         id="tspan5264"
+         sodipodi:role="line">OS Kernel</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e5ff80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5266"
+       width="178.84492"
+       height="50.538998"
+       x="-275.60904"
+       y="252.58415"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.18835831px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-187.42494"
+       y="281.61847"
+       id="text5268"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="316.58286"
+       inkscape:export-ydpi="316.58286"
+       transform="scale(0.99180323,1.0082645)"><tspan
+         sodipodi:role="line"
+         id="tspan5270"
+         x="-187.42494"
+         y="281.61847">Unikernel</tspan></text>
   </g>
 </svg>
