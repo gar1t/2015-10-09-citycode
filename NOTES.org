@@ -1,0 +1,119 @@
+* Talk description to Geekfest
+
+Title: Fun with Unikernels
+
+What single technology can, in one stroke, improve application
+performance, tighten security, increase reliability, and eliminate 40
+years of accumulated inscrutable legacy code? No, it's not the
+mythical unicorn --- those aren't real! The answer is
+*unikernels*. Unikernels are purpose-built operating systems that run
+your app and nothing more. Unikernels are poised to *actually*
+revolutionize software containment, not by simply packaging them, but
+by fundamentally changing the way they're constructed and run.
+
+In this talk, Garrett will take you on a whirlwind tour of the
+unikernel ecosystem, it's history, where it's going, and what it could
+mean for the future of programming. You'll learn about the scary state
+of the cloud --- where your software is run atop the same bytes you
+run on your laptop! You'll learn about the collective risk we face by
+relying on decades' old code, impenetrable even by experts. You'll
+also learn how unikernel projects like MirageOS and LING are
+challenging age old-assumptions --- and reforming the way we write,
+deploy, and run software.
+
+* To research
+
+- Problems with Linux kernel that unikernels can solve
+
+- Performance objections to running on the virtual drivers (vs
+  e.g. running on Linux drivers - the point seemed to be that we can
+  talk directly to the hardware, but we're not)
+
+- Use Centric Networking http://usercentricnetworking.eu/
+
+* Content/quotes
+
+> Removing the security barrier between the kernel and the application
+greatly simplifies things; we can run the whole system (kernel +
+application) as a single, privileged, executable - a unikernel.
+
+http://roscidus.com/blog/blog/2014/07/28/my-first-unikernel/
+
+* Notes from 13x
+
+- Boot time (on demand, feature the incredible timings)
+- Bottlenecked by power
+- Don't assume any level of sophistication - go very slow - be basic
+- Traditional OS "heavy" - want stats LOC
+- Avoiding extra stuff (use examples from Stax)
+- Look into ClickOS, HaLVM, OSv, Rump Kernel, Arrakis, Clive
+- The problem with C - show some crazy C and the implications
+- Dependencies problem (CB build problem - how to fix, debug, secure)
+- Point about functional languages (vs C, Python, C++)
+- LING website definitely worth demoing (zerg is cool)
+- Spawning DNS on Migrage (Jitsu)
+- OSv - wrong, Jesus Christ C, C++, Java WTF (can run almost any JAR file)
+- Small apps like taskmaster, panic service, etc - great candidates
+
+* Notes from Erlang on OSv
+
+https://www.youtube.com/watch?v=tz1TWwc9KhQ
+
+http://www.erlang-factory.com/static/upload/media/1434376100469610erlang_on_osv_euc2015.pdf
+
+- ls the /dev on an Amazon machine - Ubuntu - it's crazy!
+- Duplication slide at 6:00 is golden - use it (with permission)
+- Research the top N exploits - could these have been avoided on unikernel
+- Importance of application level features (static typing, tracing,
+  process isolation, etc.)
+- 9:32 good image on what a unikernel is
+- Importance of heterogeneity - count market share of Ubuntu, openssl
+  libs, and crypto libs, etc. The percent is incredible.
+- 13:31 great slide on relative sizes of OSes
+- OSv fat unikernel - actually in fact open to lots of stuff - cool
+- First to highlight IO performance
+- Aside: will be interesting to see how stable and performant the
+  process management layer is
+
+Spend more time with this talk - this can be turned into an outstanding talk.
+* Notes from Unikernels: Library Operating Systems for the Cloud
+
+http://anil.recoil.org/papers/2013-asplos-mirage.pdf
+
+Do you know what's going on with your server?
+
+Do you know what's going on with your app?
+
+You have a much higher trust of your app being stable because it's
+something you control. An OS is, for the most part, completely out of
+your control.
+
+Why?
+
+A) it's not built and b) is not yours
+
+Play on the fear of uncertainty. Contrast to a unikernel.
+
+* Notes from MirageOS Hello World
+
+There's a lot of "stuff" explained up front. I'd rather just get going
+and not have to go through all that background to start. It's just a
+lot of stuff. It's also stuff that's not commonly found in OCaml
+getting started material.
+
+The "skeleton" is not a skeleton - it's a very fleshy organism that
+includes a group of projects. There's a lot of stuff in here.
+
+* Notes from https://github.com/gar1t/xen-arm-builder
+
+Don't run this outside a VM - it does too much to your system. Lots of
+calls to sudo.
+
+Had to install dtc 1.4 from here:
+
+http://launchpadlibrarian.net/161539696/device-tree-compiler_1.4.0%2Bdfsg-1_amd64.deb
+
+This needs to be added to the list of pre-reqs.
+
+Need to copy /vagrant to ~ and run builds from there. Getting errors
+when mounting images from /vagrant (shared drive in VM).
