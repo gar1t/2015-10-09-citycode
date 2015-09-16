@@ -129,7 +129,7 @@ $ vagrant up
 
 ---
 
-### Looks fancy<br>How do you use it?
+### Looks expensive...<br>How does it work?
 
 <img height="400" src="server.png">
 
@@ -196,16 +196,18 @@ $ vagrant up
 - Compilers remove unused code -- *completely*
 - Static compilation of *everything* (think Go to the extreme!!)
 - Sealing
+- Buffer overflow prevent (can eliminate the major cause of severe
+  security vulnerabilities - 23% of total over the last 25 years)
+
+http://blog.klocwork.com/software-security/buffer-overflows-are-the-top-software-security-vulnerability-of-the-past-25-years/
 
 ---
 
-## TODO: Unikernel ecosystems
-
----
-
-## TODO: what about performance? Meh - maybe, maybe not
+## TODO: Size and Speed
 
 - Show stat on network throughput
+- Show sizes from Mirage
+- Show stuff from LING
 
 ---
 
@@ -217,9 +219,9 @@ $ vagrant up
 
 - Security, security, security (use black swan)
 - Architectural (start small, stay small) (federated diagram)
-    - Start small, stay small
-    - True black box design
-    - Tolerant of outages
+  - Start small, stay small
+  - True black box design
+  - Tolerant of outages
 
 ---
 
@@ -242,21 +244,24 @@ systems and evolvable systems.
 Other examples:
 
 - Calculation engines (traders, e.g.)
--
+- XXX
 
 ---
 
-## TODO: reality checks
+<img height="500" src="slowdown.gif">
+
+---
+
+### Reality Checks
 
 - Hard to get into - strike that, very hard
-- We're coming out of proof-of-concept
-- Next will be platform support and apps - separate tracks
-- After that will be experience and maturity
-- That's a long ways off
+- Coming out of proof-of-concept
+- Next, applications, improved platform support
+- After that, experience and maturity
 
 ---
 
-## Where do I sign up?
+## Just do it!
 
 - Learn a new language within an interesting context
 - Solve one really simple specific problem
@@ -273,3 +278,19 @@ Other examples:
 ---
 
 <img height="500" src="citycode.png">
+
+
+
+<!-- Maybe integrate
+
+---
+
+## The King is dead!<br>Long live the King!
+
+---
+
+## `dom0`
+
+<img height="500" src="dom0.jpg">
+
+-->
