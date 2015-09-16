@@ -191,27 +191,61 @@ $ vagrant up
 
 ---
 
-## TODO: Security stuff
+# But the Upside...
 
-- Compilers remove unused code -- *completely*
-- Static compilation of *everything* (think Go to the extreme!!)
-- Sealing
-- Buffer overflow prevent (can eliminate the major cause of severe
-  security vulnerabilities - 23% of total over the last 25 years)
+---
 
+### A smartly compiled unikernel<br>can eliminate *all* dead code
+
+---
+
+### 100% statically compiled
+
+---
+
+### Can be sealed against modification at runtime!
+
+---
+
+### Strict buffer overflow controls
+
+<!--
 http://blog.klocwork.com/software-security/buffer-overflows-are-the-top-software-security-vulnerability-of-the-past-25-years/
+-->
 
 ---
 
-## TODO: Size and Speed
-
-- Show stat on network throughput
-- Show sizes from Mirage
-- Show stuff from LING
+## "But will it scale?"
 
 ---
 
-## TODO: Unikernel projects
+<img height="500" src="domain-boot.png">
+
+---
+
+<img height="500" src="async-boot.png">
+
+---
+
+<img height="425" src="threads.png">
+
+---
+
+<img height="500" src="reads.png">
+
+---
+
+## [zerg.erlangonxen.org](http://zerg.erlangonxen.org)
+
+---
+
+## Unikernel Projects
+
+- MirageOS (OCaml)
+- LING (Erlang)
+- HaLVM (Haskell)
+- OSv (multiple)
+- Sort of: Rump Kernels, ClickOS, Clive
 
 ---
 
