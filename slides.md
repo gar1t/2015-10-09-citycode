@@ -28,73 +28,93 @@
 
 ---
 
-#### Multiuser OS
+## Unikernel
+
+- Operating system + your app as one!
+- Only the code needed
+- Single process
+- Single address space
+
+---
+
+#### Traditional Multiuser OS
 
 <img height="500" src="ostack-1.png">
 
 ---
 
-#### Multiuser OS
+#### Traditional Multiuser OS
 
 <img height="500" src="ostack-2.png">
 
 ---
 
-#### Multiuser OS
+#### Traditional Multiuser OS
 
 <img height="500" src="ostack-3.png">
 
 ---
 
-#### Multiuser OS
+#### Traditional Multiuser OS
 
 <img height="500" src="ostack-4.png">
 
 ---
 
-#### Multiuser OS
+#### Traditional Multiuser OS
 
 <img height="500" src="ostack-5.png">
 
 ---
 
-#### Multiuser OS
+#### Traditional Multiuser OS
 
 <img height="500" src="ostack-6.png">
 
 ---
 
-#### Multiuser OS
+#### Traditional Multiuser OS
 
 <img height="500" src="ostack-7.png">
 
 ---
 
-## Unikernel
+### Traditional Multiuser OS
 
-- Application Code
-- Unikernel Runtime
-- Unikernel Device Drivers
-
----
-
-# That's It!
+- Originally designed for terminal access
+- Arrived on desktops in mid 90s
+- Used in the "cloud" (aka the Internet)
 
 ---
 
-#### Linux Kernel - Lines of Code
+## On software size
+
+- *Super* productive programmer: 1,000 LOC per week
+- Small app: 10Ks
+- Medium to large apps: 100Ks
+- Really huge apps: 1Ms
+
+---
+
+#### Linux Kernel - Millions of SLOC
 
 <div id="linux-kernel-sloc"></div>
 
 ---
 
-#### Debian - Lines of Code
+#### Debian - Millions of SLOC
 
 <div id="debian-sloc"></div>
 
 ---
 
-<img src="language-cloud.png">
+#### Language Use in Debian
+
+<img src="language-cloud-2.png">
+
+---
+
+# So?
 
 ---
 
@@ -222,19 +242,43 @@ http://blog.klocwork.com/software-security/buffer-overflows-are-the-top-software
 
 ---
 
-<img height="500" src="domain-boot.png">
+#### Default OS Processes and Threads
+
+<img height="400" src="os-processes.png">
+
+Zvi Avraham - Erlang User Conference 2015
 
 ---
 
-<img height="500" src="async-boot.png">
+#### Kernel Image Size (MB)
+
+<div id="kernel-sizes"></div>
+
+Zvi Avraham - Erlang User Conference 2015
 
 ---
 
-<img height="425" src="threads.png">
+#### Kernel Boot Time
+
+<img src="domain-boot.png">
+
+Unikernels: Library Operating Systems for the Cloud
 
 ---
 
-<img height="500" src="reads.png">
+#### Thread Creation Time
+
+<img src="threads.png">
+
+Unikernels: Library Operating Systems for the Cloud
+
+---
+
+#### Block Read Throughput
+
+<img src="reads.png">
+
+Unikernels: Library Operating Systems for the Cloud
 
 ---
 
@@ -242,29 +286,19 @@ http://blog.klocwork.com/software-security/buffer-overflows-are-the-top-software
 
 ---
 
-## Unikernel Projects
-
-- MirageOS (OCaml)
-- LING (Erlang)
-- HaLVM (Haskell)
-- OSv (multiple)
-- Sort of: Rump Kernels, ClickOS, Clive
+## It's all about<br><strike>performance</strike> security
 
 ---
 
-<img height="500" src="complicated.png">
+<img height="500" src="mrrobot.jpg">
 
 ---
 
-## Let's break it down...
+<img height="500" src="mmfr.jpg">
 
 ---
 
-## It's the security, stupid<br><span class="sm">Black Swan</span>
-
----
-
-## It's also the architecture
+## And also architecture
 
 - Start small, stay small
 - True black box design
@@ -273,7 +307,7 @@ http://blog.klocwork.com/software-security/buffer-overflows-are-the-top-software
 
 ---
 
-## Applications
+## Possible Applications
 
 - Something small (in a good way)
 - Analytic engines
@@ -282,16 +316,22 @@ http://blog.klocwork.com/software-security/buffer-overflows-are-the-top-software
 
 ---
 
-<img height="500" src="slowdown.gif">
+## Reality Checks
+
+- <strike>Hard</strike> Very hard to get into
+- Emerging from proof-of-concept phase
+- Next: applications, improved platform support
+- After that: experience and maturity
 
 ---
 
-### Reality Checks
+## Unikernel Projects
 
-- Hard to get into - strike that, very hard
-- Coming out of proof-of-concept
-- Next, applications, improved platform support
-- After that, experience and maturity
+- MirageOS (OCaml)
+- LING (Erlang)
+- HaLVM (Haskell)
+- OSv (Java, posix)
+- Sort of: Rump Kernels, ClickOS, Clive
 
 ---
 

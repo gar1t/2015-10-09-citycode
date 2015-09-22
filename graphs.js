@@ -5,22 +5,36 @@ function charts() {
     var annotation = {type: 'string', role: 'annotation'};
     dispatchCharts([
         {
-            'type': slocChart,
+            'type': barChart,
             'target': 'linux-kernel-sloc',
-            'cols': ['string', 'number', annotation],
+            'cols': ['string', 'number', 'number'],
             'rows': [
-                ['Linux kernel 2.4 (2001)', 2.4, "2.4M"],
-                ['Linux kernel 2.6.29 (2009)', 11.0, "11.0M"],
-                ['Linux kernel 4.2 (2015)', 20.2, "20.2M"]
+                ['Linux kernel 2.4 (2001)', 2.4, 0.25],
+                ['Linux kernel 2.6.29 (2009)', 11.0, 0.25],
+                ['Linux kernel 4.2 (2015)', 20.2, 0.25]
             ]
         }, {
-            'type': slocChart,
+            'type': barChart,
             'target': 'debian-sloc',
-            'cols': ['string', 'number', 'number', annotation],
+            'cols': ['string', 'number', 'number', 'number'],
             'rows': [
-                ['Debian 3.0 (2002)', 4, (143.2 - 4), "143.2M"],
-                ['Debian 5.0 (2009)', 11, (351.0 - 11), "351.0M"],
-                ['Debian 8.0 (2015)', 20, (798.0 - 20), "798.0M"]
+                ['Debian 3.0 (2002)', 4, (143.2 - 4), 0.25],
+                ['Debian 5.0 (2009)', 11, (351.0 - 11), 0.25],
+                ['Debian 8.0 (2015)', 20, (798.0 - 20), 0.25]
+            ]
+        }, {
+            'type': barChart,
+            'target': 'kernel-sizes',
+            'cols': ['string', 'number'],
+            'rows': [
+                ['Linux kernel 3.x.x', 72],
+                ['Busybox with Linux Kernel', 53],
+                ['Damn Small Linux', 51],
+                ['OSv v0.20', 22],
+                ['LING', 9],
+                ['ClickOS', 6],
+                ['HalVM', 4],
+                ['MirageOS', 1]
             ]
         }
     ]);
@@ -33,16 +47,11 @@ function dispatchCharts(charts) {
     }
 }
 
-function slocChart(target, cols, rows) {
+function barChart(target, cols, rows) {
     var data = new google.visualization.DataTable();
     for (var i = 0; i < cols.length; i++) {
         data.addColumn(cols[i]);
     }
-    /*
-    data.addColumn('string');
-    data.addColumn('number');
-    data.addColumn({type: 'string', role: 'annotation'})
-    */
     data.addRows(rows);
 
     var options = {
@@ -50,7 +59,7 @@ function slocChart(target, cols, rows) {
         legend: 'none',
         chartArea: {
             left: 300,
-            width: '50%'            
+            width: '60%'
         },
         vAxis: {
             textStyle: {fontSize: 20}
