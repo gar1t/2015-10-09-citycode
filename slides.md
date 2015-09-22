@@ -31,9 +31,9 @@
 ## Unikernel
 
 - Operating system + your app as one!
-- Only the code needed
-- Single process
-- Single address space
+- Runs on bare metal or hypervisor
+- Contains only what's used
+- Single process and address space
 
 ---
 
@@ -79,6 +79,12 @@
 
 ---
 
+### Our Unikernel (again)
+
+<img height="500" src="ustack-4.png">
+
+---
+
 ### Traditional Multiuser OS
 
 - Originally designed for terminal access
@@ -87,9 +93,12 @@
 
 ---
 
+# So?
+
+---
+
 ## On software size
 
-- *Super* productive programmer: 1,000 LOC per week
 - Small app: 10Ks
 - Medium to large apps: 100Ks
 - Really huge apps: 1Ms
@@ -114,7 +123,7 @@
 
 ---
 
-# So?
+# Again, so?
 
 ---
 
@@ -286,7 +295,7 @@ Unikernels: Library Operating Systems for the Cloud
 
 ---
 
-## It's all about<br><strike>performance</strike> security
+## "I'm a total <strike>speed</strike><br>security junkie"
 
 ---
 
@@ -298,7 +307,7 @@ Unikernels: Library Operating Systems for the Cloud
 
 ---
 
-## And also architecture
+## Architectural Wins
 
 - Start small, stay small
 - True black box design
@@ -309,10 +318,10 @@ Unikernels: Library Operating Systems for the Cloud
 
 ## Possible Applications
 
-- Something small (in a good way)
-- Analytic engines
-- Routers
-- Monitors
+- Something small and focused
+- Analytic/computational engines
+- Networking routers
+- Monitors, auditors
 
 ---
 
@@ -330,7 +339,7 @@ Unikernels: Library Operating Systems for the Cloud
 - MirageOS (OCaml)
 - LING (Erlang)
 - HaLVM (Haskell)
-- OSv (Java, posix)
+- OSv (JVM, posix)
 - Sort of: Rump Kernels, ClickOS, Clive
 
 ---
@@ -343,19 +352,19 @@ Unikernels: Library Operating Systems for the Cloud
 
 ---
 
+### citycode.io
+
+<img height="450" src="citycode-card.jpg">
+
+---
+
 ## Discussion
 
 <img height="300" src="unicorn.jpg">
 
 #### @gar1t on Twitter
 
----
-
-<img height="500" src="citycode.png">
-
-
 <!-- MAYBE STUFF
-
 
 ---
 
