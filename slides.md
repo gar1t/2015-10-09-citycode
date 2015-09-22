@@ -1,8 +1,5 @@
 <style>
-.reveal section img {border:none; background:none;box-shadow:none}
-.reveal h3 {line-height:1.4;font-size:2.1em}
-.reveal h4 {line-height:1.2;font-size:1.6em}
-span.sm {font-size:0.7em}
+.reveal .ct-label {color:white; font-size:75%;}
 </style>
 
 <img height="500" src="citycode.png">
@@ -15,7 +12,7 @@ span.sm {font-size:0.7em}
 
 ---
 
-<img height="500" src="ustack-1.png">
+<img style="margin-top:100px" height="400" src="server.png">
 
 ---
 
@@ -31,6 +28,48 @@ span.sm {font-size:0.7em}
 
 ---
 
+#### Multiuser OS
+
+<img height="500" src="ostack-1.png">
+
+---
+
+#### Multiuser OS
+
+<img height="500" src="ostack-2.png">
+
+---
+
+#### Multiuser OS
+
+<img height="500" src="ostack-3.png">
+
+---
+
+#### Multiuser OS
+
+<img height="500" src="ostack-4.png">
+
+---
+
+#### Multiuser OS
+
+<img height="500" src="ostack-5.png">
+
+---
+
+#### Multiuser OS
+
+<img height="500" src="ostack-6.png">
+
+---
+
+#### Multiuser OS
+
+<img height="500" src="ostack-7.png">
+
+---
+
 ## Unikernel
 
 - Application Code
@@ -43,15 +82,19 @@ span.sm {font-size:0.7em}
 
 ---
 
-<img height="500" src="ostack.png">
+#### Linux Kernel - Lines of Code
+
+<div id="linux-kernel-sloc"></div>
 
 ---
 
-### In July 2013 Linux kernel had<br>15,803,499 lines of code
+#### Debian - Lines of Code
+
+<div id="debian-sloc"></div>
 
 ---
 
-### Two years later it<br>had grown to 19.5M
+<img src="language-cloud.png">
 
 ---
 
@@ -64,16 +107,6 @@ span.sm {font-size:0.7em}
 ---
 
 <img height="500" src="heartbleed.png">
-
----
-
-# Code Reuse
-
----
-
-## Inbreeding
-
-<img height="500" src="inbreeding.jpg">
 
 ---
 
@@ -99,20 +132,6 @@ span.sm {font-size:0.7em}
 
 ---
 
-<img height="500" src="hypervisors.png">
-
----
-
-### Emergence of Hypervisors
-
-- Coming of age in early 2000s
-- Initially expensive, steadily more affordable
-- Improved hardware support
-- Open source alternatives
-- Cloud
-
----
-
 ### Hypervisors Today
 
 ```
@@ -129,43 +148,27 @@ $ vagrant up
 
 ---
 
-### Looks expensive...<br>How does it work?
+### How do I *really* use this thing?
 
 <img height="400" src="server.png">
 
 ---
 
-### <span class="sm">Option 1</span><br>Multiuser System
+### <span class="sm">Option 1</span><br>Bare Meta + Multiuser OS
 
 <img height="400" src="stack-alt-1.png">
 
 ---
 
-### <span class="sm">Option 2</span><br>Multiple Multiuser Systems
+### <span class="sm">Option 2</span><br>VMs + Multiuser OS
 
 <img height="400" src="stack-alt-2.png">
 
 ---
 
-### <span class="sm">Option 3</span><br>Multiple Unikernels
+### <span class="sm">Option 3</span><br>VMs + Unikernels
 
 <img height="400" src="stack-alt-3.png">
-
----
-
-### Hypervisor is the new kernel
-
----
-
-### Unikernel is the new `libc`
-
----
-
-# Who cares?
-
----
-
-<img src="mrrobot.jpg">
 
 ---
 
@@ -249,36 +252,33 @@ http://blog.klocwork.com/software-security/buffer-overflows-are-the-top-software
 
 ---
 
-## TODO: Summary of actual value
-
-- Security, security, security (use black swan)
-- Architectural (start small, stay small) (federated diagram)
-  - Start small, stay small
-  - True black box design
-  - Tolerant of outages
+<img height="500" src="complicated.png">
 
 ---
 
-## TODO: application examples
+## Let's break it down...
 
-- On demand thing - using a router to launch kernels on demand - ala
-CGI or fast CGI
+---
 
-The difference between unikernels and CGI is in degree of isolation
-and security.
+## It's the security, stupid<br><span class="sm">Black Swan</span>
 
-Extend the story of no-shared-memory to no shared disk. No shared
-IO. No contention whatsoever within the virtual machine.
+---
 
-Everything has to be message passing
+## It's also the architecture
 
-Upside is distribution. Federation, resulting in fault tolerant
-systems and evolvable systems.
+- Start small, stay small
+- True black box design
+- Distributable
+- Tolerant of outages
 
-Other examples:
+---
 
-- Calculation engines (traders, e.g.)
-- XXX
+## Applications
+
+- Something small (in a good way)
+- Analytic engines
+- Routers
+- Monitors
 
 ---
 
@@ -314,17 +314,17 @@ Other examples:
 <img height="500" src="citycode.png">
 
 
+<!-- MAYBE STUFF
 
-<!-- Maybe integrate
-
----
-
-## The King is dead!<br>Long live the King!
 
 ---
 
-## `dom0`
+# Code Reuse
 
-<img height="500" src="dom0.jpg">
+---
+
+## Inbreeding
+
+<img height="500" src="inbreeding.jpg">
 
 -->

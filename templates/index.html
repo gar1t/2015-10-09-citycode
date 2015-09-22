@@ -91,6 +91,12 @@
       .reveal blockquote p {
         font-size: 175%;
       }
+
+      .reveal section img {border:none; background:none;box-shadow:none}
+      .reveal h3 {line-height:1.4;font-size:2.1em}
+      .reveal h4 {line-height:1.2;font-size:1.6em}
+      span.sm {font-size:0.7em}
+
     </style>
   </head>
 
@@ -116,8 +122,11 @@
 
   <script src="lib/js/head.min.js"></script>
   <script src="js/reveal.min.js"></script>
-  <script language="JavaScript" src="js/dynlib.js"></script>
-  <script language="JavaScript" src="js/bouncingimages.js"></script>
+  <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+  <script>
+    {% include "../graphs.js" %}
+  </script>
+
   <script>
     Reveal.initialize({
         controls: false,
@@ -140,21 +149,5 @@
             { src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
         ]
     });
-
-    function setBouncing() {
-      if (Reveal.isFirstSlide() || Reveal.isLastSlide()) {
-        startBouncing();
-      } else {
-        stopBouncing();
-      }
-    }
-
-    Reveal.addEventListener('slidechanged', function(e) {
-      setBouncing();
-    });
-
-    loadBouncingImages();
-    setBouncing();
-
   </script>
 </html>

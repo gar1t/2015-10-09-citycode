@@ -117,3 +117,32 @@ This needs to be added to the list of pre-reqs.
 
 Need to copy /vagrant to ~ and run builds from there. Getting errors
 when mounting images from /vagrant (shared drive in VM).
+* Notes from Refactor
+
+Complete miss!
+
+Need to get right to it - I blabbered on for like 20 minutes before
+realizing I hadn't really even said wtf a unikernel is. #FAIL
+
+One "ah ha" from a guy was in thinking in terms of running an app he
+was familiar with. He observed that an operating system made sense
+when he logs onto a computer and runs programs there. But to run something
+simple like Nginx - why does he need all that stuff? Can't he just run
+Nginx without an operating system?
+
+That's a unikernel!
+
+Now, what motivates that sense of "why do I need all this stuff?"
+
+Then talk about the cost of having an operating system.
+
+Compare lines of code of the kernel + user space. They wanted to see that.
+
+Everyone was interested in performance!!!!
+
+So give that to them, but not before extracting an appropriate cost!
+
+Let's get languages that people are familiar with into the discussion!
+
+THINK ABOUT YOUR AUDIENCE YOU IDIOT - DON'T ASSUME THEY KNOW ABOUT ALL
+THE CRAP IN AN OPERATING SYSTEM - THEY USE FRAMEWORKS AND WHAT NOT!!!!!

@@ -4,8 +4,8 @@ data(_) ->
     #{
       title       => "Fun With Unikernels",
       description => "A presentation by Garrett Smith at Refactor",
-      where       => "Refactor, Chicago",
-      date        => "Sept 16, 2015",
+      where       => "Geekfest, Chicago",
+      date        => "Sept 22, 2015",
       author      => "Garrett Smith",
       twitter     => "gar1t",
       blog        => "http://gar1t.com",

@@ -1,5 +1,5 @@
 gen:
-	lpad-gen
+	rm -f presentation/index.html && lpad-gen
 
 clean:
 	rm -rf presentation/*
