@@ -2,10 +2,11 @@
 
 data(_) ->
     #{
-      title       => "Fun With Unikernels",
-      description => "A presentation by Garrett Smith at Refactor",
-      where       => "Geekfest, Chicago",
-      date        => "Sept 22, 2015",
+      title       => "Rainbows and Unikernels",
+      description => "A presentation by Garrett Smith at City Code Chicago "
+                     "on October 12, 2015",
+      where       => "City Code Chicago",
+      date        => "October 9, 2015",
       author      => "Garrett Smith",
       twitter     => "gar1t",
       blog        => "http://gar1t.com",

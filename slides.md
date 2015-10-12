@@ -2,10 +2,6 @@
 .reveal .ct-label {color:white; font-size:75%;}
 </style>
 
-<img height="500" src="citycode.png">
-
----
-
 ## Unikernels?
 
 <img height="500" src="unicorn.jpg">
@@ -87,7 +83,7 @@
 
 ### Traditional Multiuser OS
 
-- Originally designed for terminal access
+- Originally designed for human based terminal access
 - Arrived on desktops in mid 90s
 - Used in the "cloud" (aka the Internet)
 
@@ -107,13 +103,13 @@
 
 #### Linux Kernel - Millions of SLOC
 
-<div id="linux-kernel-sloc"></div>
+<img height="500" src="kernel-loc.png">
 
 ---
 
 #### Debian - Millions of SLOC
 
-<div id="debian-sloc"></div>
+<img height="500" src="debian-loc.png">
 
 ---
 
@@ -177,30 +173,6 @@ $ vagrant up
 
 ---
 
-### How do I *really* use this thing?
-
-<img height="400" src="server.png">
-
----
-
-### <span class="sm">Option 1</span><br>Bare Meta + Multiuser OS
-
-<img height="400" src="stack-alt-1.png">
-
----
-
-### <span class="sm">Option 2</span><br>VMs + Multiuser OS
-
-<img height="400" src="stack-alt-2.png">
-
----
-
-### <span class="sm">Option 3</span><br>VMs + Unikernels
-
-<img height="400" src="stack-alt-3.png">
-
----
-
 ## A Clean Break
 
 - High level languages
@@ -251,46 +223,6 @@ http://blog.klocwork.com/software-security/buffer-overflows-are-the-top-software
 
 ---
 
-#### Default OS Processes and Threads
-
-<img height="400" src="os-processes.png">
-
-Zvi Avraham - Erlang User Conference 2015
-
----
-
-#### Kernel Image Size (MB)
-
-<div id="kernel-sizes"></div>
-
-Zvi Avraham - Erlang User Conference 2015
-
----
-
-#### Kernel Boot Time
-
-<img src="domain-boot.png">
-
-Unikernels: Library Operating Systems for the Cloud
-
----
-
-#### Thread Creation Time
-
-<img src="threads.png">
-
-Unikernels: Library Operating Systems for the Cloud
-
----
-
-#### Block Read Throughput
-
-<img src="reads.png">
-
-Unikernels: Library Operating Systems for the Cloud
-
----
-
 ## [zerg.erlangonxen.org](http://zerg.erlangonxen.org)
 
 ---
@@ -299,11 +231,11 @@ Unikernels: Library Operating Systems for the Cloud
 
 ---
 
-<img height="500" src="mrrobot.jpg">
+<img height="600" src="mrrobot.jpg">
 
 ---
 
-<img height="500" src="mmfr.jpg">
+<img height="600" src="mmfr.jpg">
 
 ---
 
@@ -352,28 +284,9 @@ Unikernels: Library Operating Systems for the Cloud
 
 ---
 
-### citycode.io
-
-<img height="450" src="citycode-card.jpg">
-
----
 
 ## Discussion
 
 <img height="300" src="unicorn.jpg">
 
 #### @gar1t on Twitter
-
-<!-- MAYBE STUFF
-
----
-
-# Code Reuse
-
----
-
-## Inbreeding
-
-<img height="500" src="inbreeding.jpg">
-
--->
